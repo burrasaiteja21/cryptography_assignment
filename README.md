@@ -2,8 +2,7 @@
 Certainly! Here are the steps to clone and run project:
 
 1. Clone the Repository:
-. Open a terminal or command prompt.
-. Navigate to the directory where you want to clone the repository.
+. Open a terminal or command prompt and Navigate to the directory where you want to clone the repository.
 
 Run the following command:
 git clone <repository_url>
@@ -26,7 +25,5 @@ java CaesarCipherTool
 
 4. Using the Caesar Cipher Tool:
 
-.Once the program is running, a window titled "Caesar Cipher Tool" will appear.
-.You can input text into the "Text" field, enter a shift value, and choose between encryption or decryption using the dropdown menu.
-.Click on the "Encrypt" or "Decrypt" button to perform the chosen operation.
-.The result will be displayed in the text area below the input fields.
+.Once the program is running, a window titled "Caesar Cipher Tool" will appear.You can input text into the "Text" field, enter a shift value, and choose between encryption or decryption using the dropdown menu.
+.Click on the "Encrypt" or "Decrypt" button to perform the chosen operation..The result will be displayed in the text area below the input fields.
